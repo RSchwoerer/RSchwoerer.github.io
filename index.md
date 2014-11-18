@@ -3,4 +3,6 @@ title: Home
 layout: default
 ---
 
-{% include main.md %}
+# Hello World
+
+Using Jekyll and GitHub!
