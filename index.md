@@ -5,4 +5,8 @@ layout: default
 
 # Hello World
 
-Using Jekyll and GitHub!
+
+
+
+[Codewars](http://www.codewars.com/users/RSchwoerer/)
+[HackerRank](https://www.hackerrank.com/rschwoerer)
